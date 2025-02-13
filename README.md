@@ -2,7 +2,7 @@
 <h3 align="center">I do front-end programming.</h3>
 
 # 💫 About Me:
-<br><br><br>I am currently learning React and creating a project for this.<br><br> fun fact for me is that, unlike some programmers, I love sports.
+<br><br><br>🌱 I am currently learning React and creating a project for this.<br><br> fun fact for me is that, unlike some programmers, I love sports.
 
 
 # 💻 Tech Stack:
