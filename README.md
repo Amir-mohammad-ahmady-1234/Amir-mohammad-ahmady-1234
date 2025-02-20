@@ -3,7 +3,7 @@
 <br>
 
 # 💫 About Me:
-<br>🌱 I am currently learning React and creating a project for this.<br><br>🔮 fun fact for me is that, unlike some programmers, I love sports.<br><br>🚀 I usually do front-end mentor site projects for practice.
+<br>🌱 I am currently learning React and creating a project for this.<br><br>🔮 fun fact for me is that, unlike some programmers, I love sports.<br><br>🚀 I usually do [front-end mentor](https://www.frontendmentor.io/profile/Amir-mohammad-ahmady-1234) site projects for practice.
 
 
 # 💻 Tech Stack:
