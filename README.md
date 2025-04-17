@@ -3,7 +3,7 @@
 <br>
 
 # 💫 About Me:
-<br>🌱 I am currently learning React and creating a project for this.<br><br>🔮 fun fact for me is that, unlike some programmers, I love sports.<br><br>🚀 
+<br>🌱 I am currently learning React and creating a project for this.<br><br>🔮 fun fact for me is that, unlike some programmers, I love sports.<br><br>💬 Ask me about front-end topics and how to learn it.
 
 
 # 💻 Tech Stack:
