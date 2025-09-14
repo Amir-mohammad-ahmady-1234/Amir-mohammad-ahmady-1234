@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm amirMohammad</h1>
 <h3 align="center">I do front-end programming.</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Dancing Cat" />
+</p>
+
 <br>
 
 # 💫 About Me:
